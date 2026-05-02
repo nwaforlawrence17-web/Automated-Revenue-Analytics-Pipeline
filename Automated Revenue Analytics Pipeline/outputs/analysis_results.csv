@@ -1,0 +1,12 @@
+metric,value,details
+total revenue,10701527.84,Net revenue across sales_data
+top_product,Rice,37.3% of total revenue
+top_region,East,Strongest regional performer
+weakest_region,West,Lowest regional revenue share
+peak_month,2025-03,Highest monthly revenue period
+peak_month_revenue,1067594.32,Mar-25
+lowest_month,2026-11,Lowest monthly revenue period
+lowest_month_revenue,14538.96,Nov-26
+revenue_driver,Rice,Primary revenue concentration
+risk_factor,Product concentration,Heavy reliance on one product family
+risk_factor,Regional imbalance,Weakness outside East
